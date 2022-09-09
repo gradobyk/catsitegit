@@ -1,0 +1,110 @@
+
+:root {
+	--box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+	--box2-shadow: 0px 2px 30px;
+	--first-color: #a07dff;
+	--second-color: #dcff7d;
+	--kittens-color: #a3f7a0;
+	--teens-color: #23a8f5;
+	--teens-bottum-color: #e3f544;
+	--old-color: #f544e6;
+	
+
+
+
+}
+
+
+.backbar {
+    background-color: var(--first-color) !important;
+	opacity: 0.9;
+	box-shadow: var(--box2-shadow);
+}
+
+.doribar {
+	background-color: var(--second-color) !important;
+	box-shadow: var(--box2-shadow);
+
+}
+
+.kittensBar {
+	background-color: var(--kittens-color) !important;
+	box-shadow: var(--box2-shadow);
+
+}
+
+.teensBar {
+	background-color: var(--teens-color) !important;
+	box-shadow: var(--box2-shadow);
+}
+
+.oldBar {
+	background-color: var(--old-color) !important;
+	box-shadow: var(--box2-shadow);
+}
+
+.logo {
+width: 80px;
+
+}
+
+.catsTop {
+	border-radius: 4px;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background: var(--first-color);
+    box-shadow: var(--box-shadow);
+    color: white;
+}
+
+.catsTopDori {
+	border-radius: 4px;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background: var(--second-color);
+    box-shadow: var(--box-shadow);
+    color: white;
+}
+
+.catsTopKittens {
+	border-radius: 4px;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background: var(--kittens-color);
+    box-shadow: var(--box-shadow);
+    color: white;
+
+}
+
+.catsTopTeens {
+	border-radius: 4px;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background: var(--teens-bottum-color);
+    box-shadow: var(--box-shadow);
+    color: white;
+}
+
+.catsTopOld {
+	border-radius: 4px;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background: var(--old-color);
+    box-shadow: var(--box-shadow);
+    color: white;
+
+}
+
+.firstFoto {
+	margin-top: 80px;
+}
+
+.centerA {
+	text-align: center;
+}
+
