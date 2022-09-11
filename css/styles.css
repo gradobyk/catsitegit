@@ -108,6 +108,10 @@ width: 80px;
 	text-align: center;
 }
 
+.firstPageOld {
+     padding: 20px 20px;
+}
+
 .dart1 {
     margin-top: 80px;
 }
@@ -128,4 +132,7 @@ width: 80px;
         margin-top: 50px;
     }
     
-}
+    .firstPageOld {
+     font-size: 24px;
+    }
+    }
