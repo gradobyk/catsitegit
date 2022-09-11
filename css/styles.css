@@ -112,3 +112,16 @@ width: 80px;
     margin-top: 80px;
 }
 
+@media (max-width: 576px) {
+
+    .dartText {
+        text-align: center;
+        padding: 20px 20px;
+    }
+
+    .catsDartButton {
+        display: block;
+        text-align: center;
+    }
+    
+}
